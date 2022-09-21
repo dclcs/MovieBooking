@@ -94,6 +94,7 @@ struct InfiniteStackView: View {
                                 offset = .zero
                                 height = .zero
                             }
+                            
                         }
                         
                     }
